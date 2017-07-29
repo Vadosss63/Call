@@ -1,0 +1,45 @@
+F:\Работа\многопоточность\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call.Form2.resources
+F:\Работа\многопоточность\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call.Form1.resources
+F:\Работа\многопоточность\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call.Form3.resources
+F:\Работа\многопоточность\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call.Properties.Resources.resources
+F:\Работа\многопоточность\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call.Form2.ru-RU.resources
+F:\Работа\многопоточность\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call 4.4.csproj.GenerateResource.Cache
+F:\Работа\многопоточность\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\bin\Release\Call 4.4.exe
+F:\Работа\многопоточность\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\bin\Release\Call 4.4.pdb
+F:\Работа\многопоточность\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\bin\Release\ru-RU\Call 4.4.resources.dll
+F:\Работа\многопоточность\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\ru-RU\Call 4.4.resources.dll
+F:\Работа\многопоточность\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call 4.4.exe
+F:\Работа\многопоточность\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call 4.4.pdb
+F:\Работа\многопоточность\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call 4.4.csprojResolveAssemblyReference.cache
+C:\Users\Вадим\Desktop\для колцентра\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call 4.4.exe
+C:\Users\Вадим\Desktop\для колцентра\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call 4.4.pdb
+C:\Users\Вадим\Desktop\для колцентра\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\bin\Release\Call 4.4.exe
+C:\Users\Вадим\Desktop\для колцентра\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\bin\Release\Call 4.4.pdb
+C:\Users\Вадим\Desktop\для колцентра\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\bin\Release\ru-RU\Call 4.4.resources.dll
+C:\Users\Вадим\Desktop\для колцентра\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call 4.4.csprojResolveAssemblyReference.cache
+C:\Users\Вадим\Desktop\для колцентра\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call.Form2.resources
+C:\Users\Вадим\Desktop\для колцентра\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call.Form1.resources
+C:\Users\Вадим\Desktop\для колцентра\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call.Form3.resources
+C:\Users\Вадим\Desktop\для колцентра\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call.Properties.Resources.resources
+C:\Users\Вадим\Desktop\для колцентра\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call.Form2.ru-RU.resources
+C:\Users\Вадим\Desktop\для колцентра\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call 4.4.csproj.GenerateResource.Cache
+C:\Users\Вадим\Desktop\для колцентра\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\ru-RU\Call 4.4.resources.dll
+C:\Users\Вадим\Desktop\для колцентра\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call.DownloadTheJob.resources
+C:\Users\Vadosss63\Desktop\Версия для call\Call_3_0\WindowsFormsApplication4\obj\x86\Release\Call 4.4.exe
+C:\Users\Vadosss63\Desktop\Версия для call\Call_3_0\WindowsFormsApplication4\obj\x86\Release\Call 4.4.pdb
+C:\Users\Vadosss63\Desktop\Версия для call\Call_3_0\WindowsFormsApplication4\bin\Release\Call 4.4.exe
+C:\Users\Vadosss63\Desktop\Версия для call\Call_3_0\WindowsFormsApplication4\bin\Release\Call 4.4.pdb
+C:\Users\Vadosss63\Desktop\Версия для call\Call_3_0\WindowsFormsApplication4\bin\Release\ru-RU\Call 4.4.resources.dll
+C:\Users\Vadosss63\Desktop\Версия для call\Call_3_0\WindowsFormsApplication4\bin\Release\Call 4.4.exe.CodeAnalysisLog.xml
+C:\Users\Vadosss63\Desktop\Версия для call\Call_3_0\WindowsFormsApplication4\bin\Release\Call 4.4.exe.lastcodeanalysissucceeded
+C:\Users\Vadosss63\Desktop\Версия для call\Call_3_0\WindowsFormsApplication4\obj\x86\Release\Call 4.4.csprojResolveAssemblyReference.cache
+C:\Users\Vadosss63\Desktop\Версия для call\Call_3_0\WindowsFormsApplication4\obj\x86\Release\Call.DownloadTheJob.resources
+C:\Users\Vadosss63\Desktop\Версия для call\Call_3_0\WindowsFormsApplication4\obj\x86\Release\Call.Form2.resources
+C:\Users\Vadosss63\Desktop\Версия для call\Call_3_0\WindowsFormsApplication4\obj\x86\Release\Call.Form1.resources
+C:\Users\Vadosss63\Desktop\Версия для call\Call_3_0\WindowsFormsApplication4\obj\x86\Release\Call.Form3.resources
+C:\Users\Vadosss63\Desktop\Версия для call\Call_3_0\WindowsFormsApplication4\obj\x86\Release\Call.Properties.Resources.resources
+C:\Users\Vadosss63\Desktop\Версия для call\Call_3_0\WindowsFormsApplication4\obj\x86\Release\Call.Form2.ru-RU.resources
+C:\Users\Vadosss63\Desktop\Версия для call\Call_3_0\WindowsFormsApplication4\obj\x86\Release\Call 4.4.csproj.GenerateResource.Cache
+C:\Users\Vadosss63\Desktop\Версия для call\Call_3_0\WindowsFormsApplication4\obj\x86\Release\ru-RU\Call 4.4.resources.dll
+C:\Users\Vadosss63\Desktop\Версия для call\Call_3_0\Call\obj\x86\Release\Call 4.4.exe
+C:\Users\Vadosss63\Desktop\Версия для call\Call_3_0\Call\obj\x86\Release\Call 4.4.pdb

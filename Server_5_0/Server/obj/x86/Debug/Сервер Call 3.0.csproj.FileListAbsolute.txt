@@ -1,0 +1,12 @@
+H:\Работа\Сервер\Сервер-клиент\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Работа\Сервер\Сервер-клиент\obj\x86\Debug\Сервер Call 3.0.exe
+F:\Работа\Сервер\Сервер-клиент\obj\x86\Debug\Сервер Call 3.0.pdb
+F:\Работа\Сервер\Сервер-клиент\bin\Debug\Сервер Call 3.0.exe
+F:\Работа\Сервер\Сервер-клиент\bin\Debug\Сервер Call 3.0.pdb
+F:\Работа\Сервер\Сервер-клиент\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Работа\Сервер\Сервер-клиент\obj\x86\Debug\Сервер Call 3.0.exe
+I:\Работа\Сервер\Сервер-клиент\obj\x86\Debug\Сервер Call 3.0.pdb
+H:\Работа\Сервер\Сервер-клиент\bin\Debug\Сервер Call 4.0.exe
+H:\Работа\Сервер\Сервер-клиент\bin\Debug\Сервер Call 4.0.pdb
+H:\Работа\Сервер\Сервер-клиент\obj\x86\Debug\Сервер Call 4.0.exe
+H:\Работа\Сервер\Сервер-клиент\obj\x86\Debug\Сервер Call 4.0.pdb

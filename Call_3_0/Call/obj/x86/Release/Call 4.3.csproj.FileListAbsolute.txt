@@ -1,0 +1,39 @@
+F:\Работа\многопоточность\Клиент последняя версия!!!!\WindowsFormsApplication4\bin\Release\Call 4.0.exe
+F:\Работа\многопоточность\Клиент последняя версия!!!!\WindowsFormsApplication4\bin\Release\Call 4.0.pdb
+F:\Работа\многопоточность\Клиент последняя версия!!!!\WindowsFormsApplication4\bin\Release\ru-RU\Call 4.0.resources.dll
+F:\Работа\многопоточность\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call.Form2.resources
+F:\Работа\многопоточность\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call.Form1.resources
+F:\Работа\многопоточность\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call.Form3.resources
+F:\Работа\многопоточность\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call.Properties.Resources.resources
+F:\Работа\многопоточность\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call.Form2.ru-RU.resources
+F:\Работа\многопоточность\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call 4.3.csproj.GenerateResource.Cache
+F:\Работа\многопоточность\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\ru-RU\Call 4.0.resources.dll
+F:\Работа\многопоточность\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call 4.0.exe
+F:\Работа\многопоточность\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call 4.0.pdb
+F:\Работа\многопоточность\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call 4.3.csprojResolveAssemblyReference.cache
+F:\Работа\многопоточность\Для колцентра\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call 4.0.exe
+F:\Работа\многопоточность\Для колцентра\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call 4.0.pdb
+F:\Работа\многопоточность\Для колцентра\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call 4.3.csprojResolveAssemblyReference.cache
+F:\Работа\многопоточность\Для колцентра\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call.Form2.resources
+F:\Работа\многопоточность\Для колцентра\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call.Form1.resources
+F:\Работа\многопоточность\Для колцентра\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call.Form3.resources
+F:\Работа\многопоточность\Для колцентра\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call.Properties.Resources.resources
+F:\Работа\многопоточность\Для колцентра\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call.Form2.ru-RU.resources
+F:\Работа\многопоточность\Для колцентра\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call 4.3.csproj.GenerateResource.Cache
+F:\Работа\многопоточность\Для колцентра\Клиент последняя версия!!!!\WindowsFormsApplication4\bin\Release\Call 4.0.exe
+F:\Работа\многопоточность\Для колцентра\Клиент последняя версия!!!!\WindowsFormsApplication4\bin\Release\Call 4.0.pdb
+F:\Работа\многопоточность\Для колцентра\Клиент последняя версия!!!!\WindowsFormsApplication4\bin\Release\ru-RU\Call 4.0.resources.dll
+F:\Работа\многопоточность\Для колцентра\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\ru-RU\Call 4.0.resources.dll
+F:\Работа\многопоточность\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call 4.0.exe
+F:\Работа\многопоточность\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call 4.0.pdb
+F:\Работа\многопоточность\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\bin\Release\Call 4.0.exe
+F:\Работа\многопоточность\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\bin\Release\Call 4.0.pdb
+F:\Работа\многопоточность\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\bin\Release\ru-RU\Call 4.0.resources.dll
+F:\Работа\многопоточность\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call 4.3.csprojResolveAssemblyReference.cache
+F:\Работа\многопоточность\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call.Form2.resources
+F:\Работа\многопоточность\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call.Form1.resources
+F:\Работа\многопоточность\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call.Form3.resources
+F:\Работа\многопоточность\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call.Properties.Resources.resources
+F:\Работа\многопоточность\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call.Form2.ru-RU.resources
+F:\Работа\многопоточность\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\Call 4.3.csproj.GenerateResource.Cache
+F:\Работа\многопоточность\в потоках тест\Клиент последняя версия!!!!\WindowsFormsApplication4\obj\x86\Release\ru-RU\Call 4.0.resources.dll

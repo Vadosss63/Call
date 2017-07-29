@@ -1,0 +1,14 @@
+C:\Users\Вадим\Desktop\для колцентра\в потоках тест\Сервер\Сервер-клиент\bin\Release\Сервер Call 5.0.exe
+C:\Users\Вадим\Desktop\для колцентра\в потоках тест\Сервер\Сервер-клиент\bin\Release\Сервер Call 5.0.pdb
+C:\Users\Вадим\Desktop\для колцентра\в потоках тест\Сервер\Сервер-клиент\obj\x86\Release\Сервер_клиент.Properties.Resources.resources
+C:\Users\Вадим\Desktop\для колцентра\в потоках тест\Сервер\Сервер-клиент\obj\x86\Release\Сервер Call 5.0.csproj.GenerateResource.Cache
+C:\Users\Вадим\Desktop\для колцентра\в потоках тест\Сервер\Сервер-клиент\obj\x86\Release\Сервер Call 5.0.exe
+C:\Users\Вадим\Desktop\для колцентра\в потоках тест\Сервер\Сервер-клиент\obj\x86\Release\Сервер Call 5.0.pdb
+C:\Users\Вадим\Desktop\для колцентра\в потоках тест\Сервер\Сервер-клиент\obj\x86\Release\Сервер Call 5.0.csprojResolveAssemblyReference.cache
+C:\Users\Vadosss63\Desktop\Версия для call\Server_5_0\Server\obj\x86\Release\Сервер Call 5.0.exe
+C:\Users\Vadosss63\Desktop\Версия для call\Server_5_0\Server\obj\x86\Release\Сервер Call 5.0.pdb
+C:\Users\Vadosss63\Desktop\Версия для call\Server_5_0\Server\bin\Release\Сервер Call 5.0.exe
+C:\Users\Vadosss63\Desktop\Версия для call\Server_5_0\Server\bin\Release\Сервер Call 5.0.pdb
+C:\Users\Vadosss63\Desktop\Версия для call\Server_5_0\Server\obj\x86\Release\Сервер Call 5.0.csprojResolveAssemblyReference.cache
+C:\Users\Vadosss63\Desktop\Версия для call\Server_5_0\Server\obj\x86\Release\Сервер_клиент.Properties.Resources.resources
+C:\Users\Vadosss63\Desktop\Версия для call\Server_5_0\Server\obj\x86\Release\Сервер Call 5.0.csproj.GenerateResource.Cache

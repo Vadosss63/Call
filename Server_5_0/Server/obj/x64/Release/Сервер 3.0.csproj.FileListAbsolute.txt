@@ -1,0 +1,5 @@
+H:\Работа\Сервер\Сервер-клиент\obj\x64\Release\ResolveAssemblyReference.cache
+H:\Работа\Сервер\Сервер-клиент\bin\x64\Release\Сервер Call 3.0.exe
+H:\Работа\Сервер\Сервер-клиент\bin\x64\Release\Сервер Call 3.0.pdb
+H:\Работа\Сервер\Сервер-клиент\obj\x64\Release\Сервер Call 3.0.exe
+H:\Работа\Сервер\Сервер-клиент\obj\x64\Release\Сервер Call 3.0.pdb

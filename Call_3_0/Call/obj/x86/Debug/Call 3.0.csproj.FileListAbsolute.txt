@@ -1,0 +1,72 @@
+H:\Работа\Рабоч исх\прога клиент\прога - копия\WindowsFormsApplication4\obj\x86\Debug\Call.exe
+H:\Работа\Рабоч исх\прога клиент\прога - копия\WindowsFormsApplication4\obj\x86\Debug\Call.pdb
+H:\Работа\Рабоч исх\прога клиент\прога - копия\WindowsFormsApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Работа\Рабоч исх\прога клиент\прога - копия\WindowsFormsApplication4\obj\x86\Debug\Call.Form2.resources
+H:\Работа\Рабоч исх\прога клиент\прога - копия\WindowsFormsApplication4\obj\x86\Debug\Call.Form1.resources
+H:\Работа\Рабоч исх\прога клиент\прога - копия\WindowsFormsApplication4\obj\x86\Debug\Call.Form3.resources
+H:\Работа\Рабоч исх\прога клиент\прога - копия\WindowsFormsApplication4\obj\x86\Debug\Call.Form2.ru-RU.resources
+H:\Работа\Рабоч исх\прога клиент\прога - копия\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Работа\Рабоч исх\прога клиент\прога - копия\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Работа\Рабоч исх\прога клиент\прога - копия\WindowsFormsApplication4\bin\Debug\Call.exe
+H:\Работа\Рабоч исх\прога клиент\прога - копия\WindowsFormsApplication4\bin\Debug\Call.pdb
+H:\Работа\Рабоч исх\прога клиент\прога - копия\WindowsFormsApplication4\bin\Debug\ru-RU\Call.resources.dll
+H:\Работа\Рабоч исх\прога клиент\прога - копия\WindowsFormsApplication4\obj\x86\Debug\Call.Properties.Resources.resources
+H:\Работа\Рабоч исх\прога клиент\прога - копия\WindowsFormsApplication4\obj\x86\Debug\ru-RU\Call.resources.dll
+G:\Работа\Клиент\WindowsFormsApplication4\obj\x86\Debug\Call.exe
+G:\Работа\Клиент\WindowsFormsApplication4\obj\x86\Debug\Call.pdb
+H:\Работа\Клиент\WindowsFormsApplication4\bin\Debug\Call 3.0.exe
+H:\Работа\Клиент\WindowsFormsApplication4\bin\Debug\Call 3.0.pdb
+H:\Работа\Клиент\WindowsFormsApplication4\bin\Debug\ru-RU\Call 3.0.resources.dll
+H:\Работа\Клиент\WindowsFormsApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Работа\Клиент\WindowsFormsApplication4\obj\x86\Debug\Call.Form2.resources
+H:\Работа\Клиент\WindowsFormsApplication4\obj\x86\Debug\Call.Form1.resources
+H:\Работа\Клиент\WindowsFormsApplication4\obj\x86\Debug\Call.Form3.resources
+H:\Работа\Клиент\WindowsFormsApplication4\obj\x86\Debug\Call.Properties.Resources.resources
+H:\Работа\Клиент\WindowsFormsApplication4\obj\x86\Debug\Call.Form2.ru-RU.resources
+H:\Работа\Клиент\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Работа\Клиент\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Работа\Клиент\WindowsFormsApplication4\obj\x86\Debug\ru-RU\Call 3.0.resources.dll
+H:\Работа\Клиент\WindowsFormsApplication4\obj\x86\Debug\Call 3.0.exe
+H:\Работа\Клиент\WindowsFormsApplication4\obj\x86\Debug\Call 3.0.pdb
+F:\Работа\Клиент\WindowsFormsApplication4\obj\x86\Debug\Call 3.0.exe
+F:\Работа\Клиент\WindowsFormsApplication4\obj\x86\Debug\Call 3.0.pdb
+F:\Работа\Клиент\WindowsFormsApplication4\bin\Debug\Call 3.0.exe
+F:\Работа\Клиент\WindowsFormsApplication4\bin\Debug\Call 3.0.pdb
+F:\Работа\Клиент\WindowsFormsApplication4\bin\Debug\ru-RU\Call 3.0.resources.dll
+F:\Работа\Клиент\WindowsFormsApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Работа\Клиент\WindowsFormsApplication4\obj\x86\Debug\Call.Form2.resources
+F:\Работа\Клиент\WindowsFormsApplication4\obj\x86\Debug\Call.Form1.resources
+F:\Работа\Клиент\WindowsFormsApplication4\obj\x86\Debug\Call.Form3.resources
+F:\Работа\Клиент\WindowsFormsApplication4\obj\x86\Debug\Call.Properties.Resources.resources
+F:\Работа\Клиент\WindowsFormsApplication4\obj\x86\Debug\Call.Form2.ru-RU.resources
+F:\Работа\Клиент\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Работа\Клиент\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Работа\Клиент\WindowsFormsApplication4\obj\x86\Debug\ru-RU\Call 3.0.resources.dll
+I:\Работа\Клиент\WindowsFormsApplication4\obj\x86\Debug\Call 3.0.exe
+I:\Работа\Клиент\WindowsFormsApplication4\obj\x86\Debug\Call 3.0.pdb
+I:\Работа\Клиент\WindowsFormsApplication4\bin\Debug\Call 3.0.exe
+I:\Работа\Клиент\WindowsFormsApplication4\bin\Debug\Call 3.0.pdb
+I:\Работа\Клиент\WindowsFormsApplication4\bin\Debug\ru-RU\Call 3.0.resources.dll
+I:\Работа\Клиент\WindowsFormsApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Работа\Клиент\WindowsFormsApplication4\obj\x86\Debug\Call.Form2.resources
+I:\Работа\Клиент\WindowsFormsApplication4\obj\x86\Debug\Call.Form1.resources
+I:\Работа\Клиент\WindowsFormsApplication4\obj\x86\Debug\Call.Form3.resources
+I:\Работа\Клиент\WindowsFormsApplication4\obj\x86\Debug\Call.Properties.Resources.resources
+I:\Работа\Клиент\WindowsFormsApplication4\obj\x86\Debug\Call.Form2.ru-RU.resources
+I:\Работа\Клиент\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Работа\Клиент\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Работа\Клиент\WindowsFormsApplication4\obj\x86\Debug\ru-RU\Call 3.0.resources.dll
+H:\Работа\Клиент н\WindowsFormsApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Работа\Клиент н\WindowsFormsApplication4\obj\x86\Debug\Call.Form2.resources
+H:\Работа\Клиент н\WindowsFormsApplication4\obj\x86\Debug\Call.Form1.resources
+H:\Работа\Клиент н\WindowsFormsApplication4\obj\x86\Debug\Call.Form3.resources
+H:\Работа\Клиент н\WindowsFormsApplication4\obj\x86\Debug\Call.Properties.Resources.resources
+H:\Работа\Клиент н\WindowsFormsApplication4\obj\x86\Debug\Call.Form2.ru-RU.resources
+H:\Работа\Клиент н\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Работа\Клиент н\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Работа\Клиент н\WindowsFormsApplication4\bin\Debug\Call 4.0.exe
+H:\Работа\Клиент н\WindowsFormsApplication4\bin\Debug\Call 4.0.pdb
+H:\Работа\Клиент н\WindowsFormsApplication4\bin\Debug\ru-RU\Call 4.0.resources.dll
+H:\Работа\Клиент н\WindowsFormsApplication4\obj\x86\Debug\ru-RU\Call 4.0.resources.dll
+H:\Работа\Клиент н\WindowsFormsApplication4\obj\x86\Debug\Call 4.0.exe
+H:\Работа\Клиент н\WindowsFormsApplication4\obj\x86\Debug\Call 4.0.pdb

@@ -1,0 +1,36 @@
+H:\Работа\Сервер\Сервер-клиент\bin\Release\Сервер Call 4.0.exe
+H:\Работа\Сервер\Сервер-клиент\bin\Release\Сервер Call 4.0.pdb
+H:\Работа\Сервер\Сервер-клиент\obj\x86\Release\ResolveAssemblyReference.cache
+H:\Работа\Сервер\Сервер-клиент\obj\x86\Release\Сервер Call 4.0.exe
+H:\Работа\Сервер\Сервер-клиент\obj\x86\Release\Сервер Call 4.0.pdb
+H:\Работа\многопоточность\Сервер\Сервер-клиент\bin\Release\Сервер Call 4.0.exe
+H:\Работа\многопоточность\Сервер\Сервер-клиент\bin\Release\Сервер Call 4.0.pdb
+H:\Работа\многопоточность\Сервер\Сервер-клиент\obj\x86\Release\ResolveAssemblyReference.cache
+H:\Работа\многопоточность\Сервер\Сервер-клиент\obj\x86\Release\Сервер_клиент.Properties.Resources.resources
+H:\Работа\многопоточность\Сервер\Сервер-клиент\obj\x86\Release\GenerateResource.read.1.tlog
+H:\Работа\многопоточность\Сервер\Сервер-клиент\obj\x86\Release\GenerateResource.write.1.tlog
+H:\Работа\многопоточность\Сервер\Сервер-клиент\obj\x86\Release\Сервер Call 4.0.exe
+H:\Работа\многопоточность\Сервер\Сервер-клиент\obj\x86\Release\Сервер Call 4.0.pdb
+G:\Работа\многопоточность\Сервер\Сервер-клиент\obj\x86\Release\Сервер Call 4.0.exe
+G:\Работа\многопоточность\Сервер\Сервер-клиент\obj\x86\Release\Сервер Call 4.0.pdb
+G:\Работа\многопоточность\Сервер\Сервер-клиент\bin\Release\Сервер Call 4.0.exe
+G:\Работа\многопоточность\Сервер\Сервер-клиент\bin\Release\Сервер Call 4.0.pdb
+G:\Работа\многопоточность\Сервер\Сервер-клиент\obj\x86\Release\ResolveAssemblyReference.cache
+G:\Работа\многопоточность\Сервер\Сервер-клиент\obj\x86\Release\Сервер_клиент.Properties.Resources.resources
+G:\Работа\многопоточность\Сервер\Сервер-клиент\obj\x86\Release\GenerateResource.read.1.tlog
+G:\Работа\многопоточность\Сервер\Сервер-клиент\obj\x86\Release\GenerateResource.write.1.tlog
+F:\Работа\многопоточность\Сервер\Сервер-клиент\obj\x86\Release\Сервер Call 4.0.exe
+F:\Работа\многопоточность\Сервер\Сервер-клиент\obj\x86\Release\Сервер Call 4.0.pdb
+F:\Работа\многопоточность\Сервер\Сервер-клиент\bin\Release\Сервер Call 4.0.exe
+F:\Работа\многопоточность\Сервер\Сервер-клиент\bin\Release\Сервер Call 4.0.pdb
+F:\Работа\многопоточность\Сервер\Сервер-клиент\obj\x86\Release\Сервер_клиент.Properties.Resources.resources
+F:\Работа\многопоточность\Сервер\Сервер-клиент\obj\x86\Release\Сервер Call 4.0.csproj.GenerateResource.Cache
+F:\Работа\многопоточность\Для колцентра\Сервер\Сервер-клиент\obj\x86\Release\Сервер Call 4.0.exe
+F:\Работа\многопоточность\Для колцентра\Сервер\Сервер-клиент\obj\x86\Release\Сервер Call 4.0.pdb
+F:\Работа\многопоточность\Для колцентра\Сервер\Сервер-клиент\bin\Release\Сервер Call 4.0.exe
+F:\Работа\многопоточность\Для колцентра\Сервер\Сервер-клиент\bin\Release\Сервер Call 4.0.pdb
+F:\Работа\многопоточность\Для колцентра\Сервер\Сервер-клиент\obj\x86\Release\Сервер_клиент.Properties.Resources.resources
+F:\Работа\многопоточность\Для колцентра\Сервер\Сервер-клиент\obj\x86\Release\Сервер Call 4.0.csproj.GenerateResource.Cache
+F:\Работа\многопоточность\Для колцентра\Сервер\Сервер-клиент\obj\x86\Release\Сервер Call 4.0.csprojResolveAssemblyReference.cache
+G:\Работа\многопоточность\Для колцентра\Сервер\Сервер-клиент\obj\x86\Release\Сервер Call 4.0.exe
+G:\Работа\многопоточность\Для колцентра\Сервер\Сервер-клиент\obj\x86\Release\Сервер Call 4.0.pdb

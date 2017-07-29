@@ -1,0 +1,17 @@
+c:\users\админ\documents\visual studio 2010\Projects\Сервер-клиент\Сервер-клиент\bin\Debug\Сервер-клиент.exe
+c:\users\админ\documents\visual studio 2010\Projects\Сервер-клиент\Сервер-клиент\bin\Debug\Сервер-клиент.pdb
+c:\users\админ\documents\visual studio 2010\Projects\Сервер-клиент\Сервер-клиент\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\админ\documents\visual studio 2010\Projects\Сервер-клиент\Сервер-клиент\obj\x86\Debug\Сервер-клиент.exe
+c:\users\админ\documents\visual studio 2010\Projects\Сервер-клиент\Сервер-клиент\obj\x86\Debug\Сервер-клиент.pdb
+C:\Users\Админ\Desktop\Сервер-клиент\Сервер-клиент\obj\x86\Debug\Сервер-клиент.exe
+C:\Users\Админ\Desktop\Сервер-клиент\Сервер-клиент\obj\x86\Debug\Сервер-клиент.pdb
+C:\Users\Админ\Desktop\Сервер-клиент\Сервер-клиент\bin\Debug\Сервер-клиент.exe
+C:\Users\Админ\Desktop\Сервер-клиент\Сервер-клиент\bin\Debug\Сервер-клиент.pdb
+C:\Users\Админ\Desktop\Сервер-клиент\Сервер-клиент\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Работа\Рабоч исх\программа сервер\Сервер-клиент\Сервер-клиент\obj\x86\Debug\Сервер-клиент.exe
+I:\Работа\Рабоч исх\программа сервер\Сервер-клиент\Сервер-клиент\obj\x86\Debug\Сервер-клиент.pdb
+H:\Работа\Рабоч исх\программа сервер\Сервер-клиент\Сервер-клиент\obj\x86\Debug\Сервер-клиент.exe
+H:\Работа\Рабоч исх\программа сервер\Сервер-клиент\Сервер-клиент\obj\x86\Debug\Сервер-клиент.pdb
+H:\Работа\Рабоч исх\программа сервер\Сервер-клиент\Сервер-клиент\bin\Debug\Сервер-клиент.exe
+H:\Работа\Рабоч исх\программа сервер\Сервер-клиент\Сервер-клиент\bin\Debug\Сервер-клиент.pdb
+H:\Работа\Рабоч исх\программа сервер\Сервер-клиент\Сервер-клиент\obj\x86\Debug\ResolveAssemblyReference.cache
